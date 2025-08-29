@@ -27,17 +27,16 @@ A proposta é criar uma página simples e funcional com o tema **"Minha Comida F
 
 ---
 
-## 📂 Estrutura de Pastas
+## 📂 Estrutura de Pastas 
+```
 minha-comida-favorita/
-│
 ├── index.html
-│
 ├── css/
-│   └── style.css
-│
+│ └── style.css
 └── img/
-    └── pizza.jpg
-    
+└── pizza.jpg
+└── previa_readme.png
+```
 ---
 
 ## 💡 O que foi aprendido
